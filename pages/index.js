@@ -24,23 +24,23 @@ export default function Home() {
           <p>
             PUNE | HYDERABAD, INDIA-
             <span className="font-semibold hover:underline hover:cursor-pointer hover:text-blue-400">
-              EMAIL
+             <a href="mailto:hjawajiwar@gmail.com"> EMAIL</a>
             </span>
           </p>
         </div>
 
         <ul className="flex flex-row space-x-4">
           <li>
-            <BsLinkedin />
+            <a href="https://www.linkedin.com/in/harsh-jawajiwar-086320215/"><BsLinkedin/></a>
           </li>
           <li>
-            <BsGithub />
+           <a href="https://github.com/HarshJ23"><BsGithub /></a> 
           </li>
           <li>
-            <BsTwitter />
+            <a href="https://twitter.com/HJawajiwar"><BsTwitter/></a>
           </li>
           <li>
-            <FaInstagramSquare />
+            <a href="https://www.instagram.com/harshj_23/"><FaInstagramSquare/></a>
           </li>
         </ul>
 
@@ -88,3 +88,7 @@ export default function Home() {
     </main>
   );
 }
+
+
+
+
