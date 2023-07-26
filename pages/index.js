@@ -30,18 +30,18 @@ export default function Home() {
           </p>
         </div>
 
-        <ul className="flex flex-row space-x-4 bg-primary p-2 rounded-lg">
+        <ul className="flex flex-row space-x-4 bg-primary p-2 rounded-xl  md:rounded-lg">
           <li>
-            <a href="https://www.linkedin.com/in/harsh-jawajiwar-086320215/" target="_blank" className="text-white"><BsLinkedin className="h-6 w-6" /></a>
+            <a href="https://www.linkedin.com/in/harsh-jawajiwar-086320215/" target="_blank" className="text-white"><BsLinkedin className="h-4 w-4 md:h-5 md:w-5  lg:h-6 lg:w-6"  /></a>
           </li>
           <li>
-           <a href="https://github.com/HarshJ23" target="_blank" className="text-white"><BsGithub className="h-6 w-6"/></a> 
+           <a href="https://github.com/HarshJ23" target="_blank" className="text-white"><BsGithub className="h-4 w-4 md:h-5 md:w-5  lg:h-6 lg:w-6" /></a> 
           </li>
           <li>
-            <a href="https://twitter.com/HJawajiwar" target="_blank" className="text-white"><BsTwitter className="h-6 w-6"/></a>
+            <a href="https://twitter.com/HJawajiwar" target="_blank" className="text-white"><BsTwitter className="h-4 w-4 md:h-5 md:w-5  lg:h-6 lg:w-6" /></a>
           </li>
           <li>
-            <a href="https://www.instagram.com/harshj_23/" target="_blank" className="text-white"><FaInstagramSquare className="h-6 w-6"/></a>
+            <a href="https://www.instagram.com/harshj_23/" target="_blank" className="text-white"><FaInstagramSquare className="h-4 w-4 md:h-5 md:w-5  lg:h-6 lg:w-6"  /></a>
           </li>
         </ul>
 
