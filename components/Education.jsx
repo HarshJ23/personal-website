@@ -6,7 +6,7 @@ export default function Education() {
     { value:0,
       institute:"BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI, HYDERABAD CAMPUS, INDIA",
       standard:"BE Computer Science , MSc Physics",
-      grade : "CGPA : 7.62 (in progress)",
+      grade : "CGPA : 7.76 (in progress)",
       year :  "2021-present",
     },
 
