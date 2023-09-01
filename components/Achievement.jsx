@@ -16,6 +16,17 @@ export default function Achievement() {
 
     ]
 
+    const cocurricular = [
+
+      {    value:0,
+           title:"VICE PRESIDENT - Entrepreneurship Cell",
+           description:"Currently serving as Vice President of Entrepreneurship Cell,BITS Pilani Hyderabad campus for AY 2023-24. As VP , I will be responsible for leading a team of 80+ members to handle various projects,initiatives along with our annual E-Summit,'Launchpad'. ",
+       },
+   
+      
+   
+       ]
+
   return (
     <div className="my-2">
 <div className="hero rounded-md">
@@ -40,7 +51,7 @@ export default function Achievement() {
 <div>
 <h1 className="text-left mt-6 mb-2 font-semibold ">CO-CURRICULARS</h1>
 <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-4">
-{hackathon && hackathon.map(({value,title,description})=>(
+{cocurricular && cocurricular.map(({value,title,description})=>(
 <div className="card bg-primary text-white hover:scale-95 transition ease-in-out duration-300 hover:shadow-lg" key={value}>
   <div className="card-body">
     <h2 className=" font-bold text-xl text-center">{title}</h2>
