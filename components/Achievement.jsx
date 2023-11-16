@@ -22,6 +22,11 @@ export default function Achievement() {
            title:"VICE PRESIDENT - Entrepreneurship Cell",
            description:"Currently serving as Vice President of Entrepreneurship Cell,BITS Pilani Hyderabad campus for AY 2023-24. As VP , I will be responsible for leading a team of 80+ members to handle various projects,initiatives along with our annual E-Summit,'Launchpad'. ",
        },
+
+       {    value:1,
+        title:"Internship Co-ordinator - IIC , BITS Pilani Hyderabad Campus",
+        description:"Appointed as Internship Co-ordinator for Institite Innovation Council (IIC) , BITS Pilani Hyderabad Campus" ,
+    },
    
       
    
