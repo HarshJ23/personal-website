@@ -38,7 +38,7 @@ export default function Home() {
            <a href="https://github.com/HarshJ23" target="_blank" className="text-white"><BsGithub className="h-4 w-4 md:h-5 md:w-5  lg:h-6 lg:w-6" /></a> 
           </li>
           <li>
-            <a href="https://twitter.com/HJawajiwar" target="_blank" className="text-white"><BsTwitter className="h-4 w-4 md:h-5 md:w-5  lg:h-6 lg:w-6" /></a>
+            <a href="https://twitter.com/harsh_23j" target="_blank" className="text-white"><BsTwitter className="h-4 w-4 md:h-5 md:w-5  lg:h-6 lg:w-6" /></a>
           </li>
           <li>
             <a href="https://www.instagram.com/harshj_23/" target="_blank" className="text-white"><FaInstagramSquare className="h-4 w-4 md:h-5 md:w-5  lg:h-6 lg:w-6"  /></a>
