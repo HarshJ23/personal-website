@@ -11,7 +11,7 @@ export default function Achievement() {
 
     {   value:1,
         title : "Capgemini CodeX",
-        description:"Selected as one of the top 10 finalist out of 200+ participants. Our team developed a full-stack health and medicine management app for elderly people along with a pitch deck presented to CISCO senior employees"
+        description:"Selected as one of the top 10 finalist out of 200+ participants. Our team developed a full-stack health and medicine management app for elderly people along with a pitch deck presented to Capgemini senior employees"
     },
 
     ]
